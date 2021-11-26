@@ -1,1 +1,2 @@
-alias cat='bat -p --italic-text always'
+export BAT_THEME="Solarized ($THEME)"
+alias cat='bat'

@@ -1,1 +1,6 @@
---theme="Solarized (dark)"
+# theme will come from the exported BAT_THEME environment variable
+# --theme="Solarized (dark)"
+# use plain decoration
+-p
+# italics
+--italic-text always
